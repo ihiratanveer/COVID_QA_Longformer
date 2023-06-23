@@ -30,6 +30,10 @@ The COVID-QA dataset consists of 2,019 question/answer pairs annotated by volunt
 - Outperformed other transformer-based models like RoBERTa in COVID-19 question answering tasks.
 - Provided accurate and contextually rich answers to COVID-19 queries, helping advance COVID-19 research and awareness.
 
+## Blog posts explaining the mechanism and thought behind the idea:
+- [Unleashing the Power of Long Sequences in NLP: Why can Longformers be used for Question Answering systems?]([url](https://ihiratanveer.medium.com/unleashing-the-power-of-long-sequences-in-nlp-why-can-longformers-be-used-for-question-answering-27099ecb3d1c))
+- [Longformer: Empowering COVID-19 Research with Advanced Transformer Capabilities]([url](https://ihiratanveer.medium.com/longformer-empowering-covid-19-research-with-advanced-transformer-capabilities-cf70fd3e8509))
+
 ## Contributions
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request.
 
